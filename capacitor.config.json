@@ -1,0 +1,6 @@
+{
+  "appId": "ie.droghedatabletop.rpgsoundboard",
+  "appName": "rpg-soundboard",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rpg-soundboard</string>
+    <string name="title_activity_main">rpg-soundboard</string>
+    <string name="package_name">ie.droghedatabletop.rpgsoundboard.app</string>
+    <string name="custom_url_scheme">ie.droghedatabletop.rpgsoundboard.app</string>
+</resources>
